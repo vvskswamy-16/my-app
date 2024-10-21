@@ -44,6 +44,9 @@ form {
     max-width: 400px;
     margin: auto;
 }
+h1{
+    color: red;
+}
 
 h2 {
     text-align: center;
