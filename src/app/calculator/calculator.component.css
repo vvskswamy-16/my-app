@@ -17,7 +17,6 @@ h1{
     font-weight: bolder;
 }
 
-
 .child{
     height: 50%;
     width: 30%;
@@ -48,6 +47,6 @@ button{
     text-transform: uppercase;
     margin-top: 25px;
 }
-#id{
+#h1{
     color: red;
 }
