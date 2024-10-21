@@ -1,0 +1,52 @@
+#parent {
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+}
+
+#parent1 {
+    width: 100%;
+    height: 35%;
+    display: flex;
+    background-color: burlywood;
+
+}
+
+#child1 {
+    width: 65%;
+    height: 100%;
+    padding: 20px;
+    text-align: center;
+}
+
+#child2 {
+    width: 35%;
+    height: 100%;
+    padding: 20px;
+    text-align: center;
+
+}
+
+input {
+    margin: 10px;
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+button {
+    margin: 10px;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+#parent2 {
+    width: 100%;
+    height: 65%;
+    
+}
+
+table {
+    margin-top: 20px;
+    margin-left: 300px;
+}

@@ -1,0 +1,7 @@
+.seen{
+    color: gray;
+}
+.unseen{
+    color: black;
+    font-weight: bolder;
+}
